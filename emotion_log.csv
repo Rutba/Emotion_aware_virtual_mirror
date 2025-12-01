@@ -1,0 +1,33 @@
+timestamp,emotion,note,source,date
+30:38.7,neutral,,auto,10/6/2025
+31:19.0,happy,,auto,10/6/2025
+31:59.9,neutral,,auto,10/6/2025
+32:24.6,sad,,auto,10/6/2025
+32:29.7,neutral,,auto,10/6/2025
+32:34.7,neutral,,auto,10/6/2025
+32:39.7,fear,,auto,10/6/2025
+32:44.7,neutral,,auto,10/6/2025
+32:49.8,neutral,,auto,10/6/2025
+32:54.9,neutral,,auto,10/6/2025
+33:00.1,happy,,auto,10/6/2025
+33:06.0,neutral,,auto,10/6/2025
+33:11.0,neutral,,auto,10/6/2025
+33:16.2,neutral,,auto,10/6/2025
+33:24.2,sad,,auto,10/6/2025
+33:39.2,sad,,auto,10/6/2025
+33:44.5,sad,,auto,10/6/2025
+33:49.6,neutral,,auto,10/6/2025
+33:55.7,happy,,auto,10/6/2025
+35:38.0,neutral,,auto,10/6/2025
+37:37.4,happy,keep smiling,manual,10/6/2025
+39:33.4,neutral,feel nothing,manual,10/6/2025
+31:36.8,neutral,,,
+31:41.8,neutral,,,
+31:46.8,neutral,,,
+31:56.3,sad,,,
+32:07.5,angry,,,
+32:13.7,sad,,,
+32:18.9,neutral,,,
+32:24.0,neutral,,,
+32:29.4,neutral,,,
+32:48.7,neutral,,,
