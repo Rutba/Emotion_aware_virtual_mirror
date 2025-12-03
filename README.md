@@ -9,7 +9,7 @@ This project simulates the human perceptual process:
 
 How it can help:
 
-* it can help in mental health monitoring
+* It can help in mental health monitoring
 * Can be used in smart mirrors, educational robots, or autistic care assistants
 * Encourages self-awareness in users by reflecting emotional state
 * Useful for health, education, caregiving, and wellness tech
