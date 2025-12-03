@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-st.title("🧠 Emotion Wellness Dashboard")
+st.title("Emotion Wellness Dashboard")
 
 # Ensure emotion_log.csv exists
 if not os.path.exists("emotion_log.csv"):
@@ -123,7 +123,7 @@ st.dataframe(filtered_df.tail(10))
 
 
 #Download Option
-st.download_button("📥 Download Mood Log", df.to_csv(index=False), "mood_log.csv")
+st.download_button("Download Mood Log", df.to_csv(index=False), "mood_log.csv")
 
 
 
